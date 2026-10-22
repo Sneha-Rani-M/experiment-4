@@ -1,1 +1,26 @@
 Version 2.0
+feature3
+feature3
+Shravya:I have made my changes.
+=======
+ feature1
+ feature1
+
+Srasti:
+making changes in the notes file
+ main
+
+feature2
+Sneha Rani
+i have changed my file
+ main
+login page feature implemented.
+ feature/fork-workflow
+Fork workflow demonstrated successfully.
+
+feature3
+main
+
+Siya has implemented the login page feature.
+ main
+ main
